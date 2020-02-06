@@ -4,11 +4,8 @@
 
 Data Visualization
 
-- [The world forest cover]/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
-- [Project 2 Title](/pdf/sample_presentation.pdf)
+- [The World Forest Cover](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
