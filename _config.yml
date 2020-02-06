@@ -1,9 +1,10 @@
 title: Nhi Phan
 logo: "/images/logo.png?raw=true" 
-description: 
-> Business Analyst 
+description: >
+Business Analyst 
   <br><br>
   <a href="mailto:nhi.nt.phan@gmail.com?subject=subject text">Email Me</a>
+  <br><br>
   <a href="https://www.linkedin.com/in/thaonhiphan/">View My LinkedIn Profile</a>
  
 theme: jekyll-theme-minimal
