@@ -2,15 +2,6 @@
 
 ---
 
-Data Visualization
-
----
-- [The World Forest Cover](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-- [Project 2 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -23,7 +14,15 @@ Data Mining
 - [Project 5 Title](http://example.com/)
 
 ---
+Data Visualization
 
+---
+- [The World Forest Cover](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+- [Project 2 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
 
